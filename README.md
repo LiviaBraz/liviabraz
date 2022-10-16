@@ -7,7 +7,7 @@ Oii! Bem-vindos ao meu GitHub!
 - 🎉 Estagiária de Dados na Bemobi
 - ⚖ Áreas de maior interesse: Dados, BackEnd e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 2º período de Análise e Desenvolvimento de Sistemas.
-- 💻 Também procuro aprender mais além, no momento SQL :P
+- 💻 Também procuro aprender mais além, no momento SQL e Python :P
 - 😄 Idiomas: Inglês avançado e japonês iniciante :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e Genshin Impact (～￣▽￣)～
 
@@ -23,6 +23,8 @@ Oii! Bem-vindos ao meu GitHub!
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
           
 </div>
   
