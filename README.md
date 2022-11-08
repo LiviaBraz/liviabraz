@@ -5,7 +5,7 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
   
 - 🎉 Estagiária de Dados na Bemobi
-- ⚖ Áreas de maior interesse: Dados, BackEnd e Desenv. de Jogos 🥰
+- ⚖ Áreas de maior interesse: Back-End e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 2º período de Análise e Desenvolvimento de Sistemas.
 - 💻 Também procuro aprender mais além, no momento SQL e Python :P
 - 😄 Idiomas: Inglês avançado e japonês iniciante :]
