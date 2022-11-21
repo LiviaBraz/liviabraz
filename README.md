@@ -8,7 +8,7 @@ Oii! Bem-vindos ao meu GitHub!
 - ⚖ Áreas de maior interesse: Back-End e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 2º período de Análise e Desenvolvimento de Sistemas.
 - 💻 Também procuro aprender mais além, no momento SQL e Python :P
-- 😄 Idiomas: Inglês avançado e japonês iniciante :]
+- 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e Genshin Impact (～￣▽￣)～
 
  ## 
