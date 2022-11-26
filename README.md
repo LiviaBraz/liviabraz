@@ -15,17 +15,53 @@ Oii! Bem-vindos ao meu GitHub!
   
 <div align= "center">
   <a href="https://github.com/liviabraz">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=liviabraz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&langs_count=10&theme=aura_dark&layout=compact" alt="Lívia Braz :: Top Langs" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=liviabraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&langs_count=10&theme=github_dark&layout=compact" alt="Lívia Braz :: Top Langs"/>
+  <br><br>
+  <img height="260em" src="https://activity-graph.herokuapp.com/graph?username=liviabraz&theme=aura_dark&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Livia%20Braz's%20Commits%20Graph" alt="GitHub Commits Graph"/> 
+</div>
+  
+  
+ <div align="center">
+  <h2> Hard Skills 💻</h2>
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<div style="display: inline_block; align = center">
+  <table align="center">
+    <tr>
+      <th> Technologies</th>
+      <th> Databases </th>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Livia-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="Livia-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+        <img align="center" alt="Livia-HTML5" width="35" height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
+        <img align="center" alt="Livia-CSS" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+      </td>
+      <td align="center"> 
+        <img align="center" alt="Livia-PostreSQL" height="35" width="42"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      </td>
+    </tr>
+ </table> 
+</div>
+
+ <div align="center">
+ <h2>Other Skills 🌟</h2>
+ </div>
+ 
+  <table align="center">
+    <tr>
+      <th> Technologies </th>
+    </tr>
+    <tr>
+      <td>
+       <img align="center" alt="Hugo-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+       <img align="center" alt="Hugo-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      </td>
+    </tr>
+  </table>
+
           
 </div>
   
@@ -37,7 +73,7 @@ Oii! Bem-vindos ao meu GitHub!
   <a href="mailto:revoltz.282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liviabraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/oueukk72u79qtuhiayjhf0z6u?si=YQKvmWrURsur7a_hCD6_Sg&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <img align="center" alt="gloria-pic" height="220" style="border-radius:40px;" src="https://cdn.picrew.me/shareImg/org/202211/1472643_b4Gx1Nb8.png">
+  <img align="center" alt="gloria-pic" height="200" style="border-radius:40px;" src="https://cdn.picrew.me/shareImg/org/202211/1472643_b4Gx1Nb8.png">
   
    ![Snake animation](https://github.com/liviabraz/liviabraz/blob/output/github-contribution-grid-snake.svg)
   
