@@ -18,7 +18,7 @@ Oii! Bem-vindos ao meu GitHub!
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=liviabraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&langs_count=10&theme=github_dark&layout=compact" alt="Lívia Braz :: Top Langs"/>
   <br><br>
-  <img height="260em" src="https://activity-graph.herokuapp.com/graph?username=liviabraz&theme=aura_dark&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Livia%20Braz's%20Commits%20Graph" alt="GitHub Commits Graph"/> 
+  <img height="240em" src="https://activity-graph.herokuapp.com/graph?username=liviabraz&theme=aura_dark&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Livia%20Braz's%20Commits%20Graph" alt="GitHub Commits Graph"/> 
 </div>
   
   
@@ -35,7 +35,7 @@ Oii! Bem-vindos ao meu GitHub!
     <tr>
       <td>
         <img align="center" alt="Livia-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" alt="Livia-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+        <img align="center" alt="Livia-C" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
         <img align="center" alt="Livia-HTML5" width="35" height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
         <img align="center" alt="Livia-CSS" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
       </td>
