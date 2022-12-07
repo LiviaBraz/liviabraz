@@ -1,7 +1,6 @@
 <div align="center">
 Oii! Bem-vindos ao meu GitHub!
 <h1> Eu sou a Lívia 🌹o(〃＾▽＾〃)o🌹 <h1>
-  
 </div>
   
 - 🎉 Estagiária de Dados na Bemobi
@@ -56,8 +55,9 @@ Oii! Bem-vindos ao meu GitHub!
     </tr>
     <tr>
       <td>
-       <img align="center" alt="Hugo-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-       <img align="center" alt="Hugo-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+       <img align="center" alt="Livia-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+       <img align="center" alt="Livia-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+       <img align="center" alt="Livia-Java" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
       </td>
     </tr>
   </table>
