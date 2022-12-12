@@ -6,7 +6,7 @@ Oii! Bem-vindos ao meu GitHub!
 - 🎉 Estagiária de Dados na Bemobi
 - ⚖ Áreas de maior interesse: Back-End e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 2º período de Análise e Desenvolvimento de Sistemas.
-- 💻 Também procuro aprender mais além, no momento Python e C#.
+- 💻 Também procuro aprender mais além, no momento Python, C# e Java.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola, doces e Genshin Impact (～￣▽￣)～
 
@@ -15,9 +15,7 @@ Oii! Bem-vindos ao meu GitHub!
 <div align= "center">
   <a href="https://github.com/liviabraz">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=liviabraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&langs_count=10&theme=github_dark&layout=compact" alt="Lívia Braz :: Top Langs"/>
-  <br><br>
-  <img height="240em" src="https://activity-graph.herokuapp.com/graph?username=liviabraz&theme=aura_dark&hide_border=true&bg_color=1A1B27&color=628FDA&line=2BAEAE&point=FE00E8&custom_title=Livia%20Braz's%20Commits%20Graph" alt="GitHub Commits Graph"/> 
+  <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&langs_count=10&theme=github_dark&layout=compact" alt="Lívia Braz :: Top Langs"/> 
 </div>
   
   
