@@ -6,7 +6,7 @@ Oii! Bem-vindos ao meu GitHub!
 - 🎉 Estagiária de Dados na Bemobi
 - ⚖ Áreas de maior interesse: Back-End e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 2º período de Análise e Desenvolvimento de Sistemas.
-- 💻 Também procuro aprender mais além, no momento Python, C# e Java.
+- 💻 Também procuro aprender mais além, no momento Python e Java.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola, doces e Genshin Impact (～￣▽￣)～
 
@@ -37,7 +37,7 @@ Oii! Bem-vindos ao meu GitHub!
         <img align="center" alt="Livia-CSS" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
       </td>
       <td align="center"> 
-        <img align="center" alt="Livia-PostreSQL" height="35" width="42"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+        <img align="center" alt="Livia-PostgreSQL" height="35" width="42"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       </td>
     </tr>
  </table> 
