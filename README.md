@@ -6,7 +6,7 @@ Oii! Bem-vindos ao meu GitHub!
 - 🎉 Estagiária de Dados na Bemobi
 - ⚖ Áreas de maior interesse: Back-End e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 2º período de Análise e Desenvolvimento de Sistemas.
-- 💻 Também procuro aprender mais além, no momento Python e Java.
+- 💻 Também procuro aprender mais além, no momento Java.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola, doces e Genshin Impact (～￣▽￣)～
 
@@ -31,7 +31,6 @@ Oii! Bem-vindos ao meu GitHub!
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Livia-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Livia-C" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
         <img align="center" alt="Livia-HTML5" width="35" height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
         <img align="center" alt="Livia-CSS" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -53,6 +52,7 @@ Oii! Bem-vindos ao meu GitHub!
     </tr>
     <tr>
       <td>
+        <img align="center" alt="Livia-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
        <img align="center" alt="Livia-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
        <img align="center" alt="Livia-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
        <img align="center" alt="Livia-Java" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
