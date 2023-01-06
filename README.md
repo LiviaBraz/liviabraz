@@ -5,7 +5,7 @@ Oii! Bem-vindos ao meu GitHub!
   
 - 🎉 Estagiária de Dados na Bemobi
 - ⚖ Áreas de maior interesse: Back-End e Desenv. de Jogos 🥰
-- 🌱 Atualmente estou no 2º período de Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estou no 3º período de Análise e Desenvolvimento de Sistemas.
 - 💻 Também procuro aprender mais além, no momento Java.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola, doces e Genshin Impact (～￣▽￣)～
