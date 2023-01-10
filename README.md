@@ -15,7 +15,7 @@ Oii! Bem-vindos ao meu GitHub!
 <div align= "center">
   <a href="https://github.com/liviabraz">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=liviabraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&langs_count=10&theme=github_dark&layout=compact" alt="Lívia Braz :: Top Langs"/> 
+  <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&langs_count=10&theme=github_dark&layout=compact&hide=jupyter%20notebook" alt="Lívia Braz :: Top Langs"/> 
 </div>
   
   
