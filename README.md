@@ -49,6 +49,7 @@ Oii! Bem-vindos ao meu GitHub!
   <table align="center">
     <tr>
       <th> Technologies </th>
+      <th> Frameworks </th>
     </tr>
     <tr>
       <td>
@@ -56,6 +57,9 @@ Oii! Bem-vindos ao meu GitHub!
        <img align="center" alt="Livia-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
        <img align="center" alt="Livia-C" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
         <img align="center" alt="Livia-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+      </td>
+      <td align="center">
+        <img align="center" alt="Livia-Spring" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
       </td>
     </tr>
   </table>
