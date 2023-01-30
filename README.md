@@ -27,7 +27,6 @@ Oii! Bem-vindos ao meu GitHub!
   <table align="center">
     <tr>
       <th> Technologies</th>
-      <th> Frameworks </th>
       <th> Databases </th>
     </tr>
     <tr>
@@ -35,9 +34,6 @@ Oii! Bem-vindos ao meu GitHub!
         <img align="center" alt="Livia-HTML5" width="35" height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
         <img align="center" alt="Livia-CSS" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
         <img align="center" alt="Livia-Java" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      </td>
-      <td align="center">
-        <img align="center" alt="Livia-Spring" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
       </td>
       <td align="center"> 
         <img align="center" alt="Livia-PostgreSQL" height="35" width="42"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -60,7 +56,7 @@ Oii! Bem-vindos ao meu GitHub!
        <img align="center" alt="Livia-Python" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
        <img align="center" alt="Livia-C" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
         <img align="center" alt="Livia-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-      </td>     
+      </td>
     </tr>
   </table>
 
