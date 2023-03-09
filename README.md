@@ -70,7 +70,7 @@ Oii! Bem-vindos ao meu GitHub!
   <a href="mailto:liviafariabraz282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liviabraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/oueukk72u79qtuhiayjhf0z6u?si=YQKvmWrURsur7a_hCD6_Sg&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <img align="center" alt="gloria-pic" height="200" style="border-radius:40px;" src="https://cdn.picrew.me/shareImg/org/202211/1472643_b4Gx1Nb8.png">
+  <img align="center" alt="gloria-pic" height="200" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/1011449726106861608/1083363368313831514/28dc79fd-78cc-4ea9-b0ee-021a572ec889.png">
   
    ![Snake animation](https://github.com/liviabraz/liviabraz/blob/output/github-contribution-grid-snake.svg)
   
