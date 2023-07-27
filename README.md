@@ -4,11 +4,11 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
   
 - 🎉 Estagiária de Dados na Bemobi
-- ⚖ Áreas de maior interesse: Back-End, Full Stack e Desenv. de Jogos 🥰
-- 🌱 Atualmente estou no 3º período de ADS
-- 💻 Também procuro aprender mais além, no momento aprofundando em Java
+- ⚖ Áreas de maior interesse: Dados, Back-End e Desenv. de Jogos 🥰
+- 🌱 Atualmente estou no 4º período de ADS
+- 💻 Também procuro aprender mais além, no momento aprofundando em Python
 - 😄 Idiomas: Inglês avançado :]
-- ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola, doces e Genshin Impact (～￣▽￣)～
+- ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e doces (～￣▽￣)～
 
  ## 
   
