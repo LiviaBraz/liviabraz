@@ -6,7 +6,7 @@ Oii! Bem-vindos ao meu GitHub!
 - 🎉 Estagiária de Dados na Bemobi
 - ⚖ Áreas de maior interesse: Dados, Back-End e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 4º período de ADS
-- 💻 Também procuro aprender mais além, no momento aprofundando em Python
+- 💻 Também procuro aprender mais além, no momento aprendendo Python e aperfeiçoando Java
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e doces (～￣▽￣)～
 
