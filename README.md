@@ -74,7 +74,7 @@ Oii! Bem-vindos ao meu GitHub!
   <img align="right" alt="gloria-pic" height="200" style="border-radius:40px;" src="https://cdn.picrew.me/shareImg/org/202310/1944831_pWHwxsVe.png">
  </div>
 
-
+<br>
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{liviabraz}/count.svg" /></p> 
