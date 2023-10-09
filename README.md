@@ -11,14 +11,7 @@ Oii! Bem-vindos ao meu GitHub!
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e doces (～￣▽￣)～
 
  ## 
-  
-<div align= "center">
-  <a href="https://github.com/liviabraz">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=liviabraz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&langs_count=10&theme=github_dark&layout=compact&hide=jupyter%20notebook" alt="Lívia Braz :: Top Langs"/> 
-</div>
-  
-  
+
  <div align="center">
   <h2> Hard Skills 💻</h2>
 </div>
@@ -60,20 +53,32 @@ Oii! Bem-vindos ao meu GitHub!
 
           
 </div>
-  
- ##
- 
-<div align="center" style="display: inline_block">  
-  <a href="https://instagram.com/mrslonli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liviabraz&bg_color=3906360&color=A72836&line=BE2929&point=BE2929&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api?username=liviabraz&show_icons=true&count_private=true&theme=shadow_red&layout=compact" alt="Lívia Braz github stats" /> 
+  <a href="https://github.com/liviabraz">
+  <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&langs_count=10&theme=shadow_red&layout=compact&hide=jupyter%20notebook" alt="Lívia Braz :: Top Langs"/> 
+</div>
+
+
+<div align="center"> 
+<a href="https://instagram.com/mrslonli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:liviafariabraz282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liviabraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/oueukk72u79qtuhiayjhf0z6u?si=YQKvmWrURsur7a_hCD6_Sg&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <img align="center" alt="gloria-pic" height="200" style="border-radius:40px;" src="https://cdn.discordapp.com/attachments/1011449726106861608/1083363368313831514/28dc79fd-78cc-4ea9-b0ee-021a572ec889.png">
+  <img align="center" alt="gloria-pic" height="200" style="border-radius:40px;" src="https://cdn.picrew.me/shareImg/org/202310/1944831_pWHwxsVe.png">
+ </div>
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br>
+</div>
   
    ![snake gif](https://github.com/liviabraz/liviabraz/blob/output/github-contribution-grid-snake.svg)
 
-</div>
- 
-  
-  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
   
