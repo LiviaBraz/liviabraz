@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+
 <div align="center">
 Oii! Bem-vindos ao meu GitHub!
 <h1> Eu sou a Lívia 🌹o(〃＾▽＾〃)o🌹 <h1>
@@ -62,21 +64,24 @@ Oii! Bem-vindos ao meu GitHub!
   <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&langs_count=10&theme=shadow_red&layout=compact&hide=jupyter%20notebook" alt="Lívia Braz :: Top Langs"/> 
 </div>
 
+<br>
 
 <div align="center"> 
 <a href="https://instagram.com/mrslonli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:liviafariabraz282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liviabraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/oueukk72u79qtuhiayjhf0z6u?si=YQKvmWrURsur7a_hCD6_Sg&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <img align="center" alt="gloria-pic" height="200" style="border-radius:40px;" src="https://cdn.picrew.me/shareImg/org/202310/1944831_pWHwxsVe.png">
+  <img align="right" alt="gloria-pic" height="200" style="border-radius:40px;" src="https://cdn.picrew.me/shareImg/org/202310/1944831_pWHwxsVe.png">
  </div>
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{liviabraz}/count.svg" /></p> 
 <br>
 </div>
+
+<br>
   
    ![snake gif](https://github.com/liviabraz/liviabraz/blob/output/github-contribution-grid-snake.svg)
 
