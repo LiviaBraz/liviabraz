@@ -82,8 +82,11 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
 
 <br>
+
+
+  ![Snake animation](https://raw.githubusercontent.com/liviabraz/liviabraz/snake/github-contribution-grid-snake-dark.svg) 
+
   
-   ![snake gif](https://github.com/liviabraz/liviabraz/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
   
