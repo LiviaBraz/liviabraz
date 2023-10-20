@@ -2,7 +2,7 @@
 
 <div align="center">
 Oii! Bem-vindos ao meu GitHub!
-<h1> Eu sou a Lívia 🌹o(〃＾▽＾〃)o🌹 <h1>
+<h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 <h1>
 </div>
   
 - 🎉 Estagiária de Dados na Bemobi
