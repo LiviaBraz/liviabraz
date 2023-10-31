@@ -2,7 +2,7 @@
 
 <div align="center">
 Oii! Bem-vindos ao meu GitHub!
-<h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 <h1>
+<h1 style="color: red"> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 <h1>
 </div>
   
 - 🎉 Estagiária de Dados na Bemobi
@@ -15,7 +15,7 @@ Oii! Bem-vindos ao meu GitHub!
  ## 
 
  <div align="center">
-  <h2> Hard Skills 💻</h2>
+  <h2 style="color: red"> Hard Skills 💻</h2>
 </div>
 
 <div style="display: inline_block; align = center">
@@ -38,7 +38,7 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
 
  <div align="center">
- <h2>Other Skills 🌟</h2>
+ <h2 style="color: red">Other Skills 🌟</h2>
  </div>
  
   <table align="center">
