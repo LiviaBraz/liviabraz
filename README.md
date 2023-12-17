@@ -6,8 +6,8 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
   
 - 🎉 Estagiária de Dados na Bemobi
-- ⚖ Áreas de maior interesse: Back-End e Desenv. de Jogos 🥰
-- 🌱 Atualmente estou no 4º período de ADS
+- ⚖ Áreas de maior interesse: Full Stack, Back-End e Desenv. de Jogos 🥰
+- 🌱 Atualmente estou no 5º período de ADS
 - 💻 Também procuro aprender mais além, no momento aprendendo e aperfeiçoando Java
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e doces (～￣▽￣)～
@@ -15,7 +15,7 @@ Oii! Bem-vindos ao meu GitHub!
  ## 
 
  <div align="center">
-  <h2> Hard Skills 💻</h2>
+  <h2> Skills 💻✨</h2>
 </div>
 
 <div style="display: inline_block; align = center">
@@ -23,36 +23,29 @@ Oii! Bem-vindos ao meu GitHub!
     <tr>
       <th> Technologies</th>
       <th> Databases </th>
+      <th> Others </th>
     </tr>
     <tr>
       <td>       
         <img align="center" alt="Livia-HTML5" width="35" height="35" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
         <img align="center" alt="Livia-CSS" width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
         <img align="center" alt="Livia-Java" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+        <img align="center" alt="Livia-Angular" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
+        <img align="center" alt="Livia-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+        <img align="center" alt="Livia-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       </td>
       <td align="center"> 
-        <img align="center" alt="Livia-PostgreSQL" height="35" width="42"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+        <img align="center" alt="Livia-PostgreSQL" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+        <img align="center" alt="Livia-MySQL" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />   
       </td>
+      <td align="center">
+        <img align="center" alt="Livia-Jira" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
+        <img align="center" alt="Livia-Git" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+        <img align="center" alt="Livia-BitBucket" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />  
+        <img align="center" alt="Livia-Confluence" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" />
     </tr>
  </table> 
 </div>
-
- <div align="center">
- <h2>Other Skills 🌟</h2>
- </div>
- 
-  <table align="center">
-    <tr>
-      <th> Technologies </th>     
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Livia-JS" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-       <img align="center" alt="Livia-C#" height="35" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-      </td>
-    </tr>
-  </table>
-
           
 </div>
 
@@ -67,7 +60,6 @@ Oii! Bem-vindos ao meu GitHub!
 <br>
 
 <div align="center"> 
-<a href="https://instagram.com/mrslonli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:liviafariabraz282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liviabraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/oueukk72u79qtuhiayjhf0z6u?si=YQKvmWrURsur7a_hCD6_Sg&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
