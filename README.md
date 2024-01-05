@@ -5,7 +5,7 @@ Oii! Bem-vindos ao meu GitHub!
 <h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 <h1>
 </div>
   
-- 🎉 Estagiária de Dados na Bemobi
+- 🔭 Em busca de uma oportunidade como DEV
 - ⚖ Áreas de maior interesse: Full Stack, Back-End e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 5º período de ADS
 - 💻 Também procuro aprender mais além, no momento aprendendo e aperfeiçoando Java
