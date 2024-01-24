@@ -6,7 +6,6 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
   
 - 🔭 Em busca de uma oportunidade como DEV
-- ⚖ Áreas de maior interesse: Full Stack, Back-End e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 5º período de ADS e 1º de Sistemas de Informação
 - 💻 Também procuro aprender mais além, no momento aprendendo e aperfeiçoando Java.
 - 😄 Idiomas: Inglês avançado :]
