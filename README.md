@@ -6,7 +6,7 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
   
 - 🔭 Em busca de uma oportunidade como DEV
-- 🌱 Atualmente estou no 5º período de ADS e 1º de Sistemas de Informação
+- 🌱 Atualmente estou no 5º período de ADS e 1º de Gestão de TI
 - 💻 Também procuro aprender mais além, no momento aprendendo e aperfeiçoando Java.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e doces (～￣▽￣)～
