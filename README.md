@@ -63,7 +63,6 @@ Oii! Bem-vindos ao meu GitHub!
   <a href="https://www.linkedin.com/in/liviabraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/oueukk72u79qtuhiayjhf0z6u?si=YQKvmWrURsur7a_hCD6_Sg&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://portfolio-liviabraz.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <img align="right" alt="gloria-pic" height="200" style="border-radius:40px;" src="https://cdn.picrew.me/shareImg/org/202310/1944831_pWHwxsVe.png">
  </div>
 
 <br>
