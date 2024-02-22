@@ -48,8 +48,6 @@ Oii! Bem-vindos ao meu GitHub!
           
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=liviabraz&bg_color=3906360&color=A72836&line=BE2929&point=BE2929&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api?username=liviabraz&show_icons=true&count_private=true&theme=shadow_red&layout=compact" alt="Lívia Braz github stats" /> 
   <a href="https://github.com/liviabraz">
