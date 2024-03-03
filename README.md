@@ -5,9 +5,9 @@ Oii! Bem-vindos ao meu GitHub!
 <h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 <h1>
 </div>
   
-- 🔭 Em busca de uma oportunidade como DEV
-- 🌱 Atualmente estou no 5º período de ADS e 1º de Gestão de TI
-- 💻 Também procuro aprender mais além, no momento aprendendo e aperfeiçoando Java.
+- 🔭 Em busca de uma primeira oportunidade como DEV
+- 🌱 Atualmente, no 5º período de ADS e 1º de Gestão de TI
+- 💻 Também procuro aprender mais além, no momento aperfeiçoando Java, Spring Boot e Angular.
 - 😄 Idiomas: Inglês avançado :]
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e doces (～￣▽￣)～
 
