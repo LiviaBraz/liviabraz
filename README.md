@@ -2,7 +2,7 @@
 
 <div align="center">
 Oii! Bem-vindos ao meu GitHub!
-<h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 <h1>
+<h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 </h1>
 </div>
   
 - 🔭 Em busca de uma primeira oportunidade como DEV
@@ -13,11 +13,8 @@ Oii! Bem-vindos ao meu GitHub!
 
  ## 
 
- <div align="center">
-  <h2> Skills 💻✨</h2>
-</div>
-
-<div style="display: inline_block; align = center">
+<div style="display: inline_block; align = "center">
+  <h2 align="center"> Skills 💻✨</h2>
   <table align="center">
     <tr>
       <th> Technologies</th>
@@ -45,8 +42,14 @@ Oii! Bem-vindos ao meu GitHub!
     </tr>
  </table> 
 </div>
-          
+
+<div align="center">  
+  <h3>Meus perfis em prática :]</h3>
+  <a href="https://leetcode.com/codingloria" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/codinGloria" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </div>
+
+<br>
 
 <div align="center">  
   <img style="float: right;" height="130em" src="https://github-readme-stats.vercel.app/api?username=liviabraz&show_icons=true&count_private=true&theme=shadow_red&layout=compact" alt="Lívia Braz github stats" /> 
@@ -58,10 +61,9 @@ Oii! Bem-vindos ao meu GitHub!
 
 <div align="center"> 
   <a href="mailto:liviafariabraz282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/liviabraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/liviabraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/codingloria/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://portfolio-liviabraz.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/codingloria/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  
 </div>
 
 <br>
